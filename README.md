@@ -117,8 +117,3 @@ The RealEstateGenius roadmap includes exciting future developments. We plan to e
 ## Acknowledgments
 We extend our heartfelt gratitude to SJ Innovation for organizing an exhilarating Hackathon that provided us with an incredible opportunity to showcase our skills and contribute to a remarkable team project. We are immensely grateful to Programming Hero for connecting us to this Hackathon and enabling us to be part of this enriching experience. We would also like to express our appreciation to the mentors and judges who dedicated their time and expertise in guiding and evaluating our project. Lastly, we would like to acknowledge our team members for their unwavering dedication, collaboration, and hard work throughout the development process. This project would not have been possible without the collective efforts and support of everyone involved.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to us. You can contact us via email at [airealestate90@gmail.com](mailto:airealestate90@gmail.com). We value your input and look forward to hearing from you.
