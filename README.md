@@ -90,12 +90,12 @@ The RealEstateGenius project does not have specific minimum hardware requirement
 RealEstateGenius can be utilized in various scenarios within the real estate industry. It can benefit real estate agents, property owners, investors, appraisal services, real estate agencies, and property portals. With its ability to generate accurate property descriptions, visually appealing images, and valuations using OpenAI, the project simplifies the property listing process, aids in making informed investment decisions, enhances appraisal reports, and improves the overall user experience on property portals and platforms. RealEstateGenius aims to revolutionize property valuation and provide valuable tools for professionals and individuals in the real estate market.
 
 ## Team Contributions
-Our team, Tech Transformers, consists of four members. Here are their contributions:
+Our team consists of four members. Here are their contributions:
 
-- Jharna Khatun: Team Management, Frontend UI Design and Development, Pages(Logo, URl icon, Header, Footer, Action Button, Home, Properties, Blog Details, Privacy Policy, Terms Services, README.md) Google SignIn SignUp with Firebase, Property Listings, Property Details, Testimonial, Mailchimp Subscriptions, User guide diagram, Mobile Responsiveness.
-- Noyan Dey: Backend and Server-side Development, Open AI Generator Management, Property description and image generation with open AI, Social media poster generation with open AI, Generated Property & Poster PDF download, Property dashboard form, Display board in frontend UI.
-- Md Atikur Rahman: Blog and Articles, FAQ, Social Media Integration.
-- Sohanur Rahman Emon: Git Management, Problem Solving.
+- Swapna: Team Management, Frontend UI Design and Development, Pages(Logo, URl icon, Header, Footer, Action Button, Home, Properties, Blog Details, Privacy Policy, Terms Services, README.md) Google SignIn SignUp with Firebase, Property Listings, Property Details, Testimonial, Mailchimp Subscriptions, User guide diagram, Mobile Responsiveness.
+- Manaswini: Backend and Server-side Development, Open AI Generator Management, Property description and image generation with open AI, Social media poster generation with open AI, Generated Property & Poster PDF download, Property dashboard form, Display board in frontend UI.
+- Sravani: Blog and Articles, FAQ, Social Media Integration.
+- Rohitha: Git Management, Problem Solving.
 
 Each team member's contributions were vital to the successful development and implementation of RealEstateGenius, leveraging their skills and expertise to deliver a comprehensive and innovative real estate property valuation solution.
 
@@ -114,6 +114,5 @@ While RealEstateGenius offers valuable features, it has certain limitations. The
 ## Roadmap
 The RealEstateGenius roadmap includes exciting future developments. We plan to enhance AI-generated property descriptions and images, expand social media integration, and introduce advanced analytics. Additionally, we aim to implement additional features such as property comparison, saved searches, and interactive property tours. User feedback and market demands will guide us in shaping the roadmap, ensuring a comprehensive and innovative real estate valuation solution.
 
-## Acknowledgments
-We extend our heartfelt gratitude to SJ Innovation for organizing an exhilarating Hackathon that provided us with an incredible opportunity to showcase our skills and contribute to a remarkable team project. We are immensely grateful to Programming Hero for connecting us to this Hackathon and enabling us to be part of this enriching experience. We would also like to express our appreciation to the mentors and judges who dedicated their time and expertise in guiding and evaluating our project. Lastly, we would like to acknowledge our team members for their unwavering dedication, collaboration, and hard work throughout the development process. This project would not have been possible without the collective efforts and support of everyone involved.
+
 
